@@ -1,0 +1,6 @@
+@HiveBox.API_HostAddress = http://localhost:5133
+
+GET {{HiveBox.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

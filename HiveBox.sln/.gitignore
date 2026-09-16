@@ -1,0 +1,17 @@
+# visual studio files
+.vs/
+*.user/
+*.suo
+
+# build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# dotnet publish output
+publish/
+
+# NuGet
+*.NuGet
+packages/
