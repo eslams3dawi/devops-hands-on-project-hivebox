@@ -1,0 +1,20 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# Visual Studio
+**/.vs/
+*.user
+*.suo
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Docs (اختياري - مش لازم جوه الـ image)
+README.md
+*.md
